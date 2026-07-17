@@ -88,5 +88,5 @@ End-to-end e-commerce platform with product management, JWT auth, cart, order tr
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nakshjain&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nakshjain&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/><br/>
-  <img width=325 src="https://github-readme-stats-nakshjain.vercel.app/api/top-langs/?username=nakshjain&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nakshjain&hide=HTML,CSS,SCSS&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,nakshjain" alt="top langs" />
 </div>
