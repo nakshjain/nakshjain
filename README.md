@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nakshatra+Jain!;" />
 </h1>
 
-<h3 align="center">Software Engineer @ BNY Mellon · Distributed Systems · Agentic AI · Java · Spring Boot · Node.js · Angular</h3>
+<h3 align="center">Software Engineer @ BNY · Distributed Systems · Agentic AI · Java · Spring Boot · Node.js · Angular</h3>
 <h4 align="center">600M+ records in production · 50K+ ops/day · Zero-downtime 200M+ record migration</h4>
 
 <br/>
